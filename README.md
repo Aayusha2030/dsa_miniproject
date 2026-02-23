@@ -3,7 +3,7 @@ MiniProject for 3rd Sem COMP202
 ----
 
 Built with **C++** using the **Qt Framework** and **qmake** in **Qt Creator**
-
+----
 ## Pathfinding Algorithms
 The algorithms implemented here are the following:
 
@@ -15,9 +15,9 @@ The algorithm implemented :
 
 * Kruskal's Algorithm
 
-
-*Qt Creator* is a NECESSITY to run this project, since it incorporates all necessary installation files. 
-*VS CODE* could be used, but it's a hassle! 
+----
+** Qt Creator**  is a NECESSITY to run this project, since it incorporates all necessary installation files. 
+** VS CODE ** could be used, but it's a hassle! 
   
 ----
 
