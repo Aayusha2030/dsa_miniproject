@@ -14,6 +14,10 @@ The algorithms implemented here are the following:
 The algorithm implemented :
 
 * Kruskal's Algorithm
+
+
+*Qt Creator* is a NECESSITY to run this project, since it incorporates all necessary installation files. 
+*VS CODE* could be used, but it's a hassle! 
   
 ----
 
